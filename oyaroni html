@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>おやすみアイロニー 1st Album</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <div class="container">
+      <header>
+          <h1>おやすみアイロニー</h1>
+      </header>
+    <div class="content">
+      <section class="information">
+        <h1>good night irony</h1>
+        <p class="type">Album</p>
+      <div class="description">
+        <img src="img/20210813_164242920_iOS.jpg" alt="good night ironyのジャケット写真" width="250px" height="250px">
+        <div class="tyousei">
+          <p>おやすみアイロニー初アルバムとなる今作。ジャケットデザインにはボーカルの「ひな」書き下ろしの
+      柔らかくもどこか寂しさを感じさせるバンドロゴを採用した一枚。</p>
+          <p>TVアニメ　よふかしのうた　主題歌の「街灯、月灯り」をはじめ、全６曲を収録。<br>平均年齢19歳の個性豊かなメンバーたちが奏でる洗練された音の数々を、ぜひご堪能ください。</p>
+        </div>
+      </div>
+      </section>
+      <section class="songs">
+        <h2>収録曲</h2>
+        <ol class="clearfix">
+          <li><a href="https://youtu.be/PSnPRMwoucI" target=_blank">遅れて</a></li>
+          <li>街灯、月灯かり</li>
+          <li>Cm7</li>
+          <li>合鍵と百日紅</li>
+          <li>夜兎</li>
+          <li>good night irony</li>
+        </ol>
+      </section> 
+    </div> 
+  <footer>
+    &copy; oppai
+  </footer>  
+  </div>
+</body>
+</html>
+
